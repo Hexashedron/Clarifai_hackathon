@@ -1,2 +1,2 @@
-# Clarifai_hackathon
+# LabLab.ai Hackathon
 Repo for clarifai hack
